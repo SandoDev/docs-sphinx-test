@@ -10,6 +10,7 @@ Welcome to My Docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   test-file.rst
 
 
 Indices and tables
